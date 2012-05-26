@@ -5,7 +5,7 @@ This is an example Noir 1.3 project with a bunch of common dependencies (databas
 
 ## Usage
 
-With [Leiningen 2]()
+With [Leiningen 2](http://leiningen.org/) installed, run
 
 ``` bash
 lein2 test

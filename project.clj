@@ -16,7 +16,7 @@
                  ;; moustache templates
                  [stencil "0.2.0"] ;; or [de.ubercode.clostache/clostache "1.3.0"]
                  ;; see http://clojuremongodb.info
-                 [com.novemberain/monger "1.0.0-beta5"]
+                 [com.novemberain/monger "1.0.0-beta8"]
                  ;; see http://clojureriak.info
                  [com.novemberain/welle  "1.0.0"]]
   ;; commonly used plugins. Typically this would be in ~/.lein/profiles.clj.

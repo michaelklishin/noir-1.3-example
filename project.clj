@@ -6,7 +6,7 @@
                    :all         (constantly true)}
   :dependencies [[org.clojure/clojure "1.4.0"]
                  ;; See http://webnoir.com
-                 [noir "1.3.0-beta7"]
+                 [noir "1.3.0-beta8"]
                  ;; PostgreSQL, JDBC, Korma.
                  ;; See http://sqlkorma.com
                  [korma "0.3.0-beta9"]
@@ -16,7 +16,7 @@
                  ;; moustache templates
                  [stencil "0.2.0"] ;; or [de.ubercode.clostache/clostache "1.3.0"]
                  ;; see http://clojuremongodb.info
-                 [com.novemberain/monger "1.0.0-beta8"]
+                 [com.novemberain/monger "1.0.0-rc1"]
                  ;; see http://clojureriak.info
                  [com.novemberain/welle  "1.0.0"]]
   ;; commonly used plugins. Typically this would be in ~/.lein/profiles.clj.
